@@ -1,0 +1,16 @@
+{
+  "name": "nock-server-demo",
+  "version": "1.0.0",
+  "description": "nock-server-demo",
+  "main": "index.js",
+  "repository": "https://github.com/Crayonn/node-server-demo.git",
+  "scripts": {
+    "start": "nock-server", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nock-server": "0.0.2"
+  }
+}
