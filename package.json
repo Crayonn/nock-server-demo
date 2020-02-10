@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/Crayonn/node-server-demo.git",
   "scripts": {
-    "start": "nock-server", 
+    "start": "nock-server -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
